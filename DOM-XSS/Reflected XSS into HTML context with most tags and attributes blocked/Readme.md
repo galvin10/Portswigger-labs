@@ -20,7 +20,6 @@ This lab demonstrates a reflected cross-site scripting (XSS) vulnerability mitig
       ?search=<body>
       ```
     - Monitor the response to see which tags are allowed into the HTML.
-      ![image]()
 
 2. **Testing Allowed Attributes**
     - Test attributes, particularly event handlers, to determine what executes.
